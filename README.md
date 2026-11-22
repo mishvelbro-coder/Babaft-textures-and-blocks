@@ -1,2 +1,2 @@
 # Babaft-textures-and-blocks
-Dump texturs and shaders
+Here you can find assets for Roblox, GLSL shader binaries, game textures, and ready-to-use shaders in a Blender file.
